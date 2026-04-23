@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://davidowa.github.io/ -o ./tmp_davidowa.html)",
+      "Bash(curl -s https://davidowa.github.io/js/main.js -o tmp_main.js)",
+      "Bash(curl -s https://davidowa.github.io/js/data.js -o tmp_data.js)"
+    ]
+  }
+}
